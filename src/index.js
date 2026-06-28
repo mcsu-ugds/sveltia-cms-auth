@@ -2,6 +2,7 @@
  * List of supported OAuth providers.
  */
 const supportedProviders = ['github', 'gitlab'];
+
 /**
  * Escape the given string for safe use in a regular expression.
  * @param {string} str - Original string.
